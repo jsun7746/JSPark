@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
                         //요리조리
                         //영차영차
                         //끼룩끼룩
+                        //안녕하세요 교수님
                     }
                 }
             });
