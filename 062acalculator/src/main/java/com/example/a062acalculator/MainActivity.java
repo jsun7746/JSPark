@@ -61,6 +61,10 @@ public class MainActivity extends AppCompatActivity {
                                 "에디트 1, 2를 먼저 선택하세요.",
                                 Toast.LENGTH_LONG).show();//어쩌구저쩌구
                         //이러쿵저러쿵
+                        //왔다리갔다리
+                        //요리조리
+                        //영차영차
+                        //끼룩끼룩
                     }
                 }
             });
