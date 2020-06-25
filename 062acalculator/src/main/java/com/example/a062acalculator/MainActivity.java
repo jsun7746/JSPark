@@ -60,6 +60,7 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(getApplicationContext(),
                                 "에디트 1, 2를 먼저 선택하세요.",
                                 Toast.LENGTH_LONG).show();//어쩌구저쩌구
+                        //이러쿵저러쿵
                     }
                 }
             });
